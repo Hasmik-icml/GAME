@@ -1,0 +1,22 @@
+canvas {
+  background-color: black;
+}
+
+body {
+  display: flex;
+}
+
+.btn {
+  width: 100px;
+  height: 40px;
+  color: grey;
+  border: none;
+  box-shadow: 4px 7px 5px;
+  cursor: pointer;
+  outline: none;
+  margin-left: 5px;
+}
+
+.btn:active {
+  box-shadow: 2px 3px;
+}
