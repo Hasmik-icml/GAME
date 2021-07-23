@@ -1,3 +1,3 @@
 # GAME using canvas
 
-play using <- or -> buttons. 
+play using <- or -> keys. 
